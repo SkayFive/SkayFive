@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 [![My Skills](https://skillicons.dev/icons?i=github)](https://github.com) [![My Skills](https://skillicons.dev/icons?i=discord)](https://discord.com) [![My Skills](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com) [![My Skills](https://skillicons.dev/icons?i=twitter)](https://x.com/?lang=en-id) 
 
 ##### My GitHub Stats 
-![SkayFive's GitHub stats](https://github-readme-stats.vercel.app/api?username=SkayFive&show_icons=true&theme=light)
+![SkayFive's GitHub stats](https://github-readme-stats.vercel.app/api?username=SkayFive&show_icons=true&theme=dark)
 
 
 
