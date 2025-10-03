@@ -49,10 +49,6 @@ Here are some ideas to get you started:
 
 ###
 
-<img src="https://raw.githubusercontent.com/SkayFive/SkayFive/output/snake.svg" alt="Snake animation" />
-
-###
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SkayFive/SkayFive/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SkayFive/SkayFive/output/pacman-contribution-graph.svg">
