@@ -40,7 +40,23 @@ Here are some ideas to get you started:
 
 [![My Skills](https://skillicons.dev/icons?i=github)](https://github.com) [![My Skills](https://skillicons.dev/icons?i=discord)](https://discord.com) [![My Skills](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com) [![My Skills](https://skillicons.dev/icons?i=twitter)](https://x.com/?lang=en-id) 
 
-##### My Stats
-![SkayFive's GitHub stats](https://github-readme-stats.vercel.app/api?username=SkayFive&show_icons=true&theme=radical)
+##### My GitHub Stats 
+![SkayFive's GitHub stats](https://github-readme-stats.vercel.app/api?username=SkayFive&show_icons=true&theme=light)
 
 
+
+<h2 align="left">Play a Games</h2>
+
+###
+
+<img src="https://raw.githubusercontent.com/SkayFive/SkayFive/output/snake.svg" alt="Snake animation" />
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SkayFive/SkayFive/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SkayFive/SkayFive/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/SkayFive/SkayFive/output/pacman-contribution-graph.svg">
+</picture>
+
+###
