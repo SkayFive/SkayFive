@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 
 ##### Contact Me
 
-[![My Skills](https://skillicons.dev/icons?i=github)](https://github.com) [![My Skills](https://skillicons.dev/icons?i=discord)](https://discord.com) [![My Skills](https://skillicons.dev/icons?i=instagram)](https://discord.com) [![My Skills](https://skillicons.dev/icons?i=twitter)](https://discord.com) 
+[![My Skills](https://skillicons.dev/icons?i=github)](https://github.com) [![My Skills](https://skillicons.dev/icons?i=discord)](https://discord.com) [![My Skills](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com) [![My Skills](https://skillicons.dev/icons?i=twitter)](https://x.com/?lang=en-id) 
 
 
 <!-- ![https://github.com/SkayFive](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
