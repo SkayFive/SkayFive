@@ -1,4 +1,4 @@
-![My Favorit Photo](img/github_Page.png)
+![My Favorit Photo](img/github.png)
 
 ## Hallo word i'm Krisna 👋
 
