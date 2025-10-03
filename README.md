@@ -1,4 +1,6 @@
-## Hi there 👋
+![My Favorit Photo](img/4k-wallpapers.jpg)
+
+## Hallo word i'm Krisna 👋
 
 <!--
 **SkayFive/SkayFive** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,4 +15,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+-->🔭 I’m currently working on
+🌱 I’m currently learning express JS
+![I like Music](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmptYTNoenV2MmZtb29iZ3RoZThqa25sbzFoa3B4ZnE0bTIxdjByZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cgW5iwX0e37qg/giphy.gif)
