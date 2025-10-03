@@ -1,6 +1,6 @@
 ![My Favorit Photo](img/github.png)
 
-## Hallo word i'm Krisna 👋
+## Hi, I'm Krisna 👋 Welcome to my GitHub! Enjoy your visit
 
 <!--
 **SkayFive/SkayFive** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
