@@ -22,29 +22,30 @@ Here are some ideas to get you started:
 
 ##### skills
 
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /> <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
+[![My Skills](https://skillicons.dev/icons?i=html)](https://html.com) [![My Skills](https://skillicons.dev/icons?i=css)](https://html.com) [![My Skills](https://skillicons.dev/icons?i=js)](https://html.com) [![My Skills](https://skillicons.dev/icons?i=python)](https://html.com)
 
 ##### The most used AI
 
 <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" /> <img src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" />
 
 ##### DataBase Skills
+[![My Skills](https://skillicons.dev/icons?i=mysql)](https://www.mysql.com)
 
-<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+<!-- <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" /> -->
 
 ##### IDE
-
-<img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
-
-
+[![My Skills](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com)
 
 ##### Contact Me
 
-![https://github.com/SkayFive](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=github)](https://github.com) [![My Skills](https://skillicons.dev/icons?i=discord)](https://discord.com) [![My Skills](https://skillicons.dev/icons?i=instagram)](https://discord.com) [![My Skills](https://skillicons.dev/icons?i=twitter)](https://discord.com) 
+
+
+<!-- ![https://github.com/SkayFive](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![whatsapp.com](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=WhatsApp&logoColor=white)
 ![instagram.com](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
 ![facebook.com](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)
-![https://www.tiktok.com/](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)
+![https://www.tiktok.com/](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white) -->
 
 
 
